@@ -1,0 +1,17 @@
+{
+  "internet_adapter": "Ethernet",
+  "local_adapter": "Ethernet 2",
+  "source_hostname": "files.example.test",
+  "source_ip": "203.0.113.20",
+  "source_file_path": "/payload.bin",
+  "internet_next_hop": "192.168.1.1",
+  "receiver_ip": "192.168.50.10",
+  "receiver_username": "diodein",
+  "receiver_directory": "/srv/diode/inbox",
+  "ssh_private_key": "C:\\DiodeSecrets\\diode_ed25519",
+  "ssh_known_hosts": "C:\\DiodeSecrets\\known_hosts",
+  "staging_directory": "D:\\DiodeStore",
+  "delete_after_confirmation": false,
+  "connect_timeout_seconds": 20,
+  "max_transfer_seconds": 3600
+}
